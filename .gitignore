@@ -1,0 +1,11 @@
+**/secrets.json
+**/firebase-debug.log
+**/node_modules
+**/bower_components
+**/*.bak
+.idea
+
+.DS_Store
+npm-debug.log
+dist/
+coverage/
